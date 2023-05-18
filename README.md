@@ -18,10 +18,10 @@ Tampilan tersebut dapat dilihat di [link berikut (https://achmad-portfolio-site.
 ## Optimalisasi website
 
 Nilai lighthouse sebelum optimalisasi
-(screenshot)
+![Nilai lighthouse sebelum optimalisasi](./docs/images/Screenshot%202023-05-15%20150048.png)
 
 Nilai lighthouse setelah optimalisasi
-(screenshot)
+![Nilai lighthouse sebelum optimalisasi](./docs/images/Screenshot%202023-05-18%20074825.png)
 
 Langkah-langkah yang dilakukan untuk meningkatkan nilai kualitas website dari lighthouse:
 1.
