@@ -12,6 +12,7 @@
     "vite": "^4.3.5"
   },
   "dependencies": {
+    "aos": "2.3.4",
     "vite-plugin-compression": "^0.5.1",
     "vite-plugin-pwa": "^0.14.7",
     "workbox-precaching": "^6.5.4",

@@ -17,11 +17,13 @@ export default defineConfig({
        * then create your web manifest at https://www.simicart.com/manifest-generator.html
        * copy generated manifest.webmanifest here, except scope, start_url, display, and icons.
        */
-        theme_color: '#000',
-        background_color: '#000',
-        name: 'Achmad Kurniantos Portfolio',
-        short_name: 'AK',
-        description: 'Achmad Kurnianto Portfolio Website',
+        theme_color: '#0036ff',
+        background_color: '#0036ff',
+        name: 'Muhammad Rizky Portfolio',
+        short_name: 'MIKERZ',
+        orientation: 'portrait',
+        shortcuts: [],
+        description: 'K 10 Store Website',
         display: 'standalone',
         scope: '/',
         start_url: '/?utm_source=pwa',
